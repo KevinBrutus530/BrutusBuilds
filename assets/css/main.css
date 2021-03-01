@@ -1857,8 +1857,13 @@ button.alt:active,
 /* List */
 
 ul {
-  list-style: disc;
-  padding-left: 1em;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul li i {
+  font-size: 2em;
 }
 
 ul li {
