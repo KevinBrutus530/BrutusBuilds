@@ -2543,7 +2543,7 @@ body > article {
 
   #top .image {
     width: 15em;
-    height: 15em;
+    height: 19em;
     margin-bottom: 0;
   }
 
@@ -2573,4 +2573,8 @@ body > article {
   #copyright li:first-child {
     margin-top: 0;
   }
+}
+
+.exported-icons {
+  height: 1.9em;
 }
